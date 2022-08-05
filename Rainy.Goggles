@@ -1,0 +1,10 @@
+! name: Rainy Goggles
+! description: Remove misleading porn pages.
+! public: false
+! author: Stormy Rain
+! avatar: FF66FF
+
+$discard,site=kompoz.me
+$discard,site=redwap.me
+$discard,site=redwap2.com
+$discard,site=anybunny.com
